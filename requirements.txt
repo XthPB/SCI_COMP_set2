@@ -4,3 +4,4 @@ numba
 scipy
 pillow
 tqdm
+cupy
