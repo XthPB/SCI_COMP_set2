@@ -55,5 +55,5 @@ Run the notebooks in order.
 
 *Measured on Google Colab (T4 GPU). See `sor_speedup.ipynb`.*
 
-![SOR Benchmark](exercise_2.1_2.2_plots/sor_benchmarks.png)
+![SOR Benchmark](exercise_2.1_2.2_plots/sor_benchmarks_all.png)
 
