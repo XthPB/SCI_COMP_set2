@@ -53,7 +53,7 @@ Run the notebooks in order.
 | 700 | 17491.07 ms | 45.11 ms | 86.95 ms | 9.67 ms |
 | 1000 | 31816.80 ms | 68.18 ms | 154.16 ms | 18.17 ms |
 
-*Measured on Google Colab (T4 GPU). See `sor_speedup.ipynb`.*
+*Measured on Google Colab (T4). See `sor_speedup.ipynb`.*
 
 ![SOR Benchmark](exercise_2.1_2.2_plots/sor_benchmarks_all.png)
 
